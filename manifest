@@ -2,16 +2,17 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
-description: My module
-author: Your Name
-license: Specify your license
-copyright: Copyright (c) 2010 by Your Company
+version: 1.0.0
+apiversion: 2
+description: Sms module for Titanium Android
+author: Olivier Morandi
+license: MIT
+copyright: Copyright (c) 2013 by Olivier Morandi
 
 
 # these should not be edited
 name: sms
-moduleid: com.omorandi
-guid: 4fe5f6cf-6b47-4f2b-85d1-139c13df1500
+moduleid: ti.android.sms
+guid: d86a1f51-1abf-4392-b453-a99a20392890
 platform: android
-minsdk: 1.6.2
+minsdk: 3.0.0.GA

@@ -3,6 +3,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="build/.apt_generated"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-		<classpathentry kind="lib" path="/Users/olivier/android-sdk-mac_86/platforms/android-1.6/android.jar"/>	<classpathentry kind="lib" path="/Users/olivier/android-sdk-mac_86/add-ons/google_apis-4_r02/libs/maps.jar"/>	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/1.6.2/android/titanium.jar"/>	<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/1.6.2/android/js.jar"/>
+		<classpathentry kind="lib" path="/Users/olivier/android-sdk-macosx/platforms/android-8/android.jar"/>	
+		<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/titanium.jar"/>	
+		<classpathentry kind="lib" path="/Library/Application Support/Titanium/mobilesdk/osx/1.8.2/android/js.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

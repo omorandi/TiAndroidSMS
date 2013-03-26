@@ -8,7 +8,7 @@ TODO: Enter your module description here
 
 To access this module from JavaScript, you would do the following:
 
-	var sms = require("com.omorandi");
+	var sms = require("ti.android.sms");
 
 The sms variable is a reference to the Module object.	
 
